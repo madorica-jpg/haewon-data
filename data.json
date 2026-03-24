@@ -4,6 +4,13 @@
     "actype": "벽걸이",
     "price": "12만원",
     "install": "설치비 별도",
+    "images": [
+      "https://raw.githubusercontent.com/madorica-jpg/haewon-data/main/images/0_thumb-6117e031821b0_3GMWXS4E_9265045bb618a6c0f4c34da46604c9e03a2952e8_174x124.jpg",
+      "https://raw.githubusercontent.com/madorica-jpg/haewon-data/main/images/1774396460_5eca4bc731c74a17140d4ae31eff0b0c.webp",
+      "https://raw.githubusercontent.com/madorica-jpg/haewon-data/main/images/1774396461_2026-03-25_00_24_12.png",
+      "https://raw.githubusercontent.com/madorica-jpg/haewon-data/main/images/1774396462_9637817d298756b6e370ba0b0977bc69__1_.webp",
+      "https://raw.githubusercontent.com/madorica-jpg/haewon-data/main/images/1774396464_Gemini_Generated_Image_1qyi691qyi691qyi.png"
+    ],
     "image": "https://raw.githubusercontent.com/madorica-jpg/haewon-data/main/images/0_thumb-6117e031821b0_3GMWXS4E_9265045bb618a6c0f4c34da46604c9e03a2952e8_174x124.jpg"
   },
   {
